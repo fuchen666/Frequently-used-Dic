@@ -5,6 +5,16 @@
 /www.zip
 /web.zip
 /web.rar
+/beifen.zip
+/beifen.rar
+/备份.rar
+/备份.zip
+/data.sql
+/beifen.sql
+/2019.sql
+/2018.sql
+/2018.rar
+/2018.zip
 /inc/upload_flash.aspx
 /2088shop
 /dbb.aspx

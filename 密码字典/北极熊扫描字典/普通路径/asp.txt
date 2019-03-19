@@ -1,4 +1,10 @@
 /upfile.asp
+/liudehua.asp
+/wenhua/index.asp
+/zhicheng
+/houtaiguanli/
+/zcgl/
+/a/
 /reg_upload.asp
 /bbs/upfile.asp
 /app/login.asp
