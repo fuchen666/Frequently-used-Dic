@@ -3,6 +3,12 @@
 %username%12
 %username%123
 %username%1234
+1qaz2wsx
+!qaz@wsx
+!QAZ@WSX
+QWEqwe
+qweqwe123
+!@#qwe
 0123
 01234
 012345
