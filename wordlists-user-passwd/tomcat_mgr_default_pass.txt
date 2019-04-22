@@ -1,0 +1,10 @@
+admin
+manager
+role1
+root
+tomcat
+j2deployer
+OvW*busr1
+kdsxc
+owaspbwa
+123456

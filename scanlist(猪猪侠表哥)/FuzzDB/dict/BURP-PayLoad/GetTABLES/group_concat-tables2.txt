@@ -1,3 +1,0 @@
- from information_schema.tables where table_schema=database()
-+from+information_schema.tables+where+table_schema=database()
-/**/from/**/information_schema.tables/**/where/**/table_schema=database()

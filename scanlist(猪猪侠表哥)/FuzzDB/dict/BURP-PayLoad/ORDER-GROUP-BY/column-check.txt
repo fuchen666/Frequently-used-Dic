@@ -1,5 +1,0 @@
-unknown column "
-unknown column
-unknown
-BACKGROUND
-keyword-comparison
